@@ -12,6 +12,3 @@ Here are some ideas to get you started:
 ![Laravel](https://img.shields.io/badge/-Laravel-red?style=flat&logo=laravel)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-41B883?style=flat&logo=vue.js)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=имя&layout=compact)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=имя&show_icons=true&theme=default)
