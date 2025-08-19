@@ -1,8 +1,7 @@
 # Привет, я Алексей 👋
 Веб-разработчик | PHP / Laravel | Node | DevOps 💻
 
-- 🔭 Сейчас работаю над: коммерческим сайтом Автосеривса ⚙️
-- 🌱 Учусь: CI/CD, Docker, Node, Express
+- 🌱 Учусь: CI/CD, Docker, Node, Express, Php, Laravel/yii2
 - 💬 Спрашивай меня о: Laravel, Node, API, WordPress
 - 📫 Как связаться: [почта@mail.ru](mailto:oceanfluddy@gmail.com)/[Telegramm](https://t.me/psyhomod)
 
