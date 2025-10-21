@@ -31,9 +31,9 @@ Fullstack разработчик с фокусом на создание про�
 
 ## 📊 GitHub статистика
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ВАШ_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=goddanshi&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ВАШ_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goddanshi&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
 
 ## 🌱 Сейчас изучаю
 
