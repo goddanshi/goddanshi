@@ -1,49 +1,73 @@
-# 👋 Привет! Я Fullstack разработчик
+<h1 align="center"> Goddanshi </h1>
 
-> Превращаю идеи в работающие веб-приложения
+###
 
-## 🚀 О себе
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=svelte" height="40" alt="svelte logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=redux" height="40" alt="redux logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=sass" height="40" alt="sass logo"  />
+</div>
 
-Fullstack разработчик с фокусом на создание производительных и масштабируемых решений. 
+###
 
-## 💻 Технологический стек
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="githubactions logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nginx" height="40" alt="nginx logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
+</div>
 
-### Backend
-![Yii2](https://img.shields.io/badge/Yii2-0073AA?style=for-the-badge&logo=yii&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+###
 
-### Frontend
-![Vue.js](https://img.shields.io/badge/Vue.js_3-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=neovim" height="40" alt="neovim logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
+</div>
 
-### Базы данных
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+###
 
-## 🎯 Чем занимаюсь
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Flowseal&theme=bear&show_icons=true&hide_border=true&count_private=true&locale=ru">
+</p>
 
-- 🔨 Разрабатываю RESTful API на Yii2
-- ⚡ Создаю интерактивные интерфейсы на Vue 3
-- 🗄️ Проектирую и оптимизирую структуры баз данных
-- 🚀 Внедряю кэширование с Redis для повышения производительности
-- 📈 Постоянно улучшаю архитектуру приложений
+###
 
-## 📊 GitHub статистика
+<p align="center">
+  <img src="https://github-profile-trophy-tawny.vercel.app/?username=Flowseal&theme=radical&no-frame=true&no-bg=true&margin-w=4">
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=goddanshi&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
+###
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goddanshi&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
-
-## 🌱 Сейчас изучаю
-
-- Продвинутые паттерны проектирования
-- Микросервисную архитектуру
-- Оптимизацию производительности SQL-запросов
-- Новые возможности Vue 3 Composition API
-
-## 📫 Связаться со мной
-
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/psyhomod)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oceanfluddy@gmail.com)
-
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Flowseal/Flowseal/refs/heads/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Flowseal/Flowseal/refs/heads/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Flowseal/Flowseal/refs/heads/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
